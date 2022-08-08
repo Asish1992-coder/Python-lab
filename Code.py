@@ -5,6 +5,6 @@ print (f"your number is {Num1}!")
 Num2 = Num1 % 2
 
 if Num2 == 1:
-    print("It's a odd one!")
+    print("It's a odd one!!!")
 else:
     print("It is a Even number!!!")
